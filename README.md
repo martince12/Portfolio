@@ -15,7 +15,7 @@ It includes theme switching, scroll-based UI interactions, project presentation 
 ## Tech Stack
 
 * Next.js (App Router)
-* Tailwind CSS
+* Tailwind CSS```
 * Framer Motion
 * Resend Email API
 

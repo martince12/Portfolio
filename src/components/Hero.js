@@ -4,9 +4,7 @@ import { motion } from "framer-motion";
 export default function Hero() {
     return (
         <section className="relative min-h-screen flex items-center justify-center px-6 sm:px-10 md:px-16 bg-[var(--bg-main)]">
-            <div className="absolute w-[140%] h-[140%] -top-[-0%] -left-[40%]
-  bg-[radial-gradient(circle_at_40%_-100%,var(--radial-1),var(--radial-2),transparent_72%)]
-  animate-radialFloat" />
+            <div className="absolute w-[140%] h-[140%] -top-[-0%] -left-[40%] bg-[radial-gradient(circle_at_40%_-100%,var(--radial-1),var(--radial-2),transparent_72%)] animate-radialFloat" />
 
             <div className="max-w-[1200px] mx-auto">
 
